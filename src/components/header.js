@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link } from 'gatsby';
+import { a } from 'gatsby';
 
 export default function Header() {
   return (
@@ -8,14 +8,14 @@ export default function Header() {
       <div className="container">
         <div className="inner-header">
           <div className="logo">
-            <Link to="/">ODUNSI</Link>
+            <a href="/">ODUNSI</a>
           </div>
 
           <div className="navigation">
             <nav>
-              <Link to="/about">About</Link>
-              <Link to="/work">Work</Link>
-              <Link to="/contact">Contact</Link>
+              <a href="/">About</a>
+              <a href="/">Work</a>
+              <a href="/">Contact</a>
             </nav>
           </div>
         </div>

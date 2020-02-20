@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link, useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 export default function aboutBlurb() {
@@ -43,7 +43,7 @@ export default function aboutBlurb() {
               </p>
 
               <div className="btn-row">
-                <Link to="/work">View Series</Link>
+                <a href="/">View Series</a>
               </div>
             </div>
 
