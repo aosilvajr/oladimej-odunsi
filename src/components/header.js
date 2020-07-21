@@ -1,7 +1,5 @@
 import React from 'react';
 
-import { a } from 'gatsby';
-
 export default function Header() {
   return (
     <header>
