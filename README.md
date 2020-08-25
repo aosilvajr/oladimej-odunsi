@@ -1,7 +1,7 @@
 <h1 align="center">
     Oladimeji Odunsi
 </h1>
-<p align="center">Sitesimples desenvolvido utilizando Gatsby JS</p>
+<p align="center">Site simples desenvolvido para fins de estudo da biblioteca GSAP com o Gatsby JS</p>
 
 <p align="center">
 	 <a href="https://oladimej-odunsi.netlify.app/">
